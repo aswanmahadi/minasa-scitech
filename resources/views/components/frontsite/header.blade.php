@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
     <a href="{{ route('index') }}" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
         <div class="p-2">
-            <img src="{{ asset('assets/frontsite/img/logo-minasa.jpg') }}" alt="" width="45" height="45">
+            <img src="{{ asset('assets/frontsite/img/res-minasa-logo.png') }}" alt="" width="55" height="60">
         </div>
         <div>
             <h2 class="m-0 text-primary">Minasa</h2>

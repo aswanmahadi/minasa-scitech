@@ -23,3 +23,6 @@
 
 <!-- Template Stylesheet -->
 <link href="{{ asset('assets/frontsite/css/style.css') }}" rel="stylesheet" />
+
+{{--  --}}
+<link rel="stylesheet" href="{{ asset('assets/frontsite/css/ud-styles.css') }}" />

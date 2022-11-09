@@ -687,4 +687,35 @@
         </div>
     </div>
     <!-- Testimonial End -->
+
+    {{-- Clients --}}
+    <div class="container-xxl py-5">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="ud-brands wow fadeInUp" data-wow-delay=".2s">
+                    <div class="ud-title">
+                        <h6>Trusted and Used by</h6>
+                    </div>
+                    <div class="ud-brands-logo">
+                        <div class="ud-single-logo">
+                            <img src="{{ asset('assets/frontsite/img/brands/ayroui.svg') }}" alt="ayroui" />
+                        </div>
+                        <div class="ud-single-logo">
+                            <img src="{{ asset('assets/frontsite/img/brands/uideck.svg') }}" alt="uideck" />
+                        </div>
+                        <div class="ud-single-logo">
+                            <img src="{{ asset('assets/frontsite/img/brands/graygrids.svg') }}" alt="graygrids" />
+                        </div>
+                        <div class="ud-single-logo">
+                            <img src="{{ asset('assets/frontsite/img/brands/lineicons.svg') }}" alt="lineicons" />
+                        </div>
+                        <div class="ud-single-logo">
+                            <img src="{{ asset('assets/frontsite/img/brands/ecommerce-html.svg') }}"
+                                alt="ecommerce-html" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
