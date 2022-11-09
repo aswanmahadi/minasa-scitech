@@ -16,18 +16,7 @@
             <a href="#" class="nav-item nav-link active">Home</a>
             <a href="#" class="nav-item nav-link">About</a>
             <a href="#" class="nav-item nav-link">Service</a>
-            <a href="#" class="nav-item nav-link">Project</a>
-            <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                <div class="dropdown-menu bg-light m-0">
-                    <a href="#" class="dropdown-item">Feature</a>
-                    <a href="#" class="dropdown-item">Free Quote</a>
-                    <a href="#" class="dropdown-item">Our Team</a>
-                    <a href="#" class="dropdown-item">Testimonial</a>
-                    <a href="#" class="dropdown-item">404 Page</a>
-                </div>
-            </div>
-            <a href="#" class="nav-item nav-link">Contact</a>
+            <a href="#" class="nav-item nav-link">Portfolio</a>
         </div>
     </div>
 </nav>

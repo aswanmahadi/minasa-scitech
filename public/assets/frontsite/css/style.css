@@ -71,9 +71,15 @@ img {
     height: 48px;
 }
 
+.btn-xlg-square {
+    width: 80px;
+    height: 80px;
+}
+
 .btn-square,
 .btn-sm-square,
-.btn-lg-square {
+.btn-lg-square,
+.btn-xlg-square {
     padding: 0;
     display: flex;
     align-items: center;

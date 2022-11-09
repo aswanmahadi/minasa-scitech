@@ -9,7 +9,7 @@
     rel="stylesheet" />
 
 <!-- Icon Font Stylesheet -->
-<link href="{{ url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css') }}" rel="stylesheet" />
+<link href="{{ url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css') }}" rel="stylesheet" />
 <link href="{{ url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css') }}"
     rel="stylesheet" />
 
