@@ -5,6 +5,10 @@
     --dark: #1A2A36;
 }
 
+img {
+    max-width: 100%;
+  }
+
 .fw-medium {
     font-weight: 500 !important;
 }
