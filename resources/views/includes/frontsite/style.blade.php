@@ -1,5 +1,5 @@
 <!-- Favicon -->
-<link href="{{ asset('assets/frontsite/img/favicon.ico') }}" rel="icon" />
+<link href="{{ asset('assets/frontsite/img/res-minasa-logo.png') }}" rel="icon">
 
 <!-- Google Web Fonts -->
 <link rel="preconnect" href="{{ url('https://fonts.googleapis.com') }}" />

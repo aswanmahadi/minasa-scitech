@@ -99,12 +99,12 @@ img {
 }
 
 .navbar .navbar-nav .nav-link {
-    margin-right: 30px;
+    margin-right: 70px;
     padding: 25px 0;
     color: var(--dark);
-    font-size: 15px;
-    font-weight: 500;
-    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: capitalize;
     outline: none;
 }
 
