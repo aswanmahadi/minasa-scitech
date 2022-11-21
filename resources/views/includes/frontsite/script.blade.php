@@ -11,3 +11,10 @@
 
 <!-- Template Javascript -->
 <script src="{{ asset('assets/frontsite/js/main.js') }}"></script>
+
+<!-- Modal Javascript -->
+<script>
+    $(document).ready(function() {
+        $("#exampleModal").modal('show');
+    });
+</script>

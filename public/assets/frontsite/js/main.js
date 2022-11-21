@@ -10,8 +10,8 @@
         }, 1);
     };
     spinner();
-    
-    
+
+
     // Initiate the wowjs
     new WOW().init();
 
@@ -24,8 +24,8 @@
             $('.sticky-top').removeClass('shadow-sm').css('top', '-100px');
         }
     });
-    
-    
+
+
     // Back to top button
     $(window).scroll(function () {
         if ($(this).scrollTop() > 300) {
@@ -81,7 +81,6 @@
         }
     });
 
-
     // Portfolio isotope and filter
     var portfolioIsotope = $('.portfolio-container').isotope({
         itemSelector: '.portfolio-item',
@@ -93,6 +92,6 @@
 
         portfolioIsotope.isotope({filter: $(this).data('filter')});
     });
-    
+
 })(jQuery);
 

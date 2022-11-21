@@ -5,7 +5,7 @@
             <img src="{{ asset('assets/frontsite/img/res-minasa-logo.png') }}" alt="" width="55" height="60">
         </div>
         <div>
-            <h2 class="m-0 text-primary">Minasa</h2>
+            <h1 class="m-0 text-primary">Minasa</h1>
         </div>
     </a>
     <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

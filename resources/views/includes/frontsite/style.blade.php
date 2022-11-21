@@ -24,5 +24,5 @@
 <!-- Template Stylesheet -->
 <link href="{{ asset('assets/frontsite/css/style.css') }}" rel="stylesheet" />
 
-{{--  --}}
+<!-- Ud Style -->
 <link rel="stylesheet" href="{{ asset('assets/frontsite/css/ud-styles.css') }}" />
