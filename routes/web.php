@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Frontsite\AboutController;
 use App\Http\Controllers\Frontsite\HomeController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::resource('/', HomeController::class);
+Route::resource('/about', AboutController::class);
 
 
 // Route::get('/', function () {

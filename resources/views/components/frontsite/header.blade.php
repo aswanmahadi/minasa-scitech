@@ -13,8 +13,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="#" class="nav-item nav-link active">Home</a>
-            <a href="#" class="nav-item nav-link">About</a>
+            <a href="{{ route('index') }}" class="nav-item nav-link active">Home</a>
+            <a href="{{ route('about.index') }}" class="nav-item nav-link">About</a>
             <a href="#" class="nav-item nav-link">Service</a>
             <a href="#" class="nav-item nav-link">Portfolio</a>
         </div>
