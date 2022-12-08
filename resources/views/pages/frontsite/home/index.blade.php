@@ -158,7 +158,8 @@
                             Perusahaan yang bergerak dalam bisnis berbasis teknologi yang handal dan terpercaya serta aktif
                             melakukan kegiatan R&D untuk menghasilkan produk elektronika dan produk ketenagalistrikan.
                         </p>
-                        <a href="" class="btn btn-primary rounded-pill py-3 px-5 mt-3">Baca Selengkapnya</a>
+                        <a href="{{ route('about.index') }}" class="btn btn-primary rounded-pill py-3 px-5 mt-3">Baca
+                            Selengkapnya</a>
                     </div>
                 </div>
             </div>
