@@ -64,8 +64,8 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-3.jpg') }}'>">
-                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-3.jpg') }}" alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-4.jpg') }}'>">
+                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-4.jpg') }}" alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
