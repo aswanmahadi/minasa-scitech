@@ -72,8 +72,8 @@ img {
 }
 
 .btn-xlg-square {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
 }
 
 .btn-square,
@@ -102,7 +102,7 @@ img {
     margin-right: 70px;
     padding: 25px 0;
     color: var(--dark);
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
     text-transform: capitalize;
     outline: none;
@@ -168,7 +168,7 @@ img {
 @media (max-width: 768px) {
     .header-carousel .owl-carousel-item {
         position: relative;
-        min-height: 500px;
+        min-height: 450px;
     }
 
     .header-carousel .owl-carousel-item img {

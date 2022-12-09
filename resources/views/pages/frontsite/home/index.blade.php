@@ -19,11 +19,12 @@
     </div>
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid p-0 pb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-1.jpg') }}'>">
-                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-1.jpg') }}" alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-6.jpg') }}'>">
+                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-6.jpg') }}"
+                    alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -43,8 +44,9 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-2.jpg') }}'>">
-                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-2.jpg') }}" alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-7.jpg') }}'>">
+                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-7.jpg') }}"
+                    alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -64,8 +66,9 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-4.jpg') }}'>">
-                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-4.jpg') }}" alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-8.jpg') }}'>">
+                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-8.jpg') }}"
+                    alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -89,47 +92,47 @@
     <!-- Carousel End -->
 
     <!-- Feature Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl">
         <div class="container">
             <div class="row g-5">
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-center mb-4">
+                <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="d-flex align-items-center mb-1">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
-                            <i class="fa-solid fa-screwdriver-wrench text-white fa-2xl"></i>
+                            <i class="fa-solid fa-screwdriver-wrench text-white fa-xl"></i>
                         </div>
                         {{-- <h1 class="mb-0" data-toggle="counter-up">3453</h1> --}}
                     </div>
-                    <h2 class="mb-0">Installation</h2>
+                    <h3 class="mb-0">Installation</h3>
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-center mb-4">
+                <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.3s">
+                    <div class="d-flex align-items-center mb-1">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
-                            <i class="fa-solid fa-file-invoice text-white fa-2xl"></i>
+                            <i class="fa-solid fa-file-invoice text-white fa-xl"></i>
                         </div>
                         {{-- <h1 class="mb-0" data-toggle="counter-up">4234</h1> --}}
                     </div>
-                    <h2 class="mb-0">Procurement</h2>
+                    <h3 class="mb-0">Procurement</h3>
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-center mb-4">
+                <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="d-flex align-items-center mb-1">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
-                            <i class="fa-solid fa-gear text-white fa-2xl"></i>
+                            <i class="fa-solid fa-gear text-white fa-xl"></i>
                         </div>
                         {{-- <h1 class="mb-0" data-toggle="counter-up">3123</h1> --}}
                     </div>
-                    <h2 class="mb-0">Engineering</h2>
+                    <h3 class="mb-0">Engineering</h3>
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="d-flex align-items-center mb-4">
+                <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.7s">
+                    <div class="d-flex align-items-center mb-1">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
-                            <i class="fa-solid fa-calendar-days text-white fa-2xl"></i>
+                            <i class="fa-solid fa-calendar-days text-white fa-xl"></i>
                         </div>
                         {{-- <h1 class="mb-0" data-toggle="counter-up">1831</h1> --}}
                     </div>
-                    <h2 class="mb-0">Maintenance</h2>
+                    <h3 class="mb-0">Maintenance</h3>
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
@@ -138,7 +141,7 @@
     <!-- Feature Start -->
 
     <!-- About Start -->
-    <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
+    <div class="container-fluid bg-light overflow-hidden my-3 px-lg-0">
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 ps-lg-0 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px">
