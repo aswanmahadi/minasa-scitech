@@ -22,9 +22,8 @@
     <div class="container-fluid p-0 pb-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-6.jpg') }}'>">
-                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-6.jpg') }}"
-                    alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-1.jpg') }}'>">
+                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-1.jpg') }}" alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -44,9 +43,8 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-7.jpg') }}'>">
-                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-7.jpg') }}"
-                    alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-2.jpg') }}'>">
+                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-2.jpg') }}" alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -66,9 +64,8 @@
                 </div>
             </div>
             <div class="owl-carousel-item position-relative"
-                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-8.jpg') }}'>">
-                <img class="img-fluid" style="height: 525px" src="{{ asset('assets/frontsite/img/carousel-8.jpg') }}"
-                    alt="" />
+                data-dot="<img src='{{ asset('assets/frontsite/img/carousel-3.jpg') }}'>">
+                <img class="img-fluid" src="{{ asset('assets/frontsite/img/carousel-3.jpg') }}" alt="" />
                 <div class="owl-carousel-inner">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -96,7 +93,7 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-center mb-1">
+                    <div class="d-flex align-items-center mb-3">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
                             <i class="fa-solid fa-screwdriver-wrench text-white fa-xl"></i>
                         </div>
@@ -106,7 +103,7 @@
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
                 <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-center mb-1">
+                    <div class="d-flex align-items-center mb-3">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
                             <i class="fa-solid fa-file-invoice text-white fa-xl"></i>
                         </div>
@@ -116,7 +113,7 @@
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
                 <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-center mb-1">
+                    <div class="d-flex align-items-center mb-3">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
                             <i class="fa-solid fa-gear text-white fa-xl"></i>
                         </div>
@@ -126,7 +123,7 @@
                     <a class="small fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                 </div>
                 <div class="col-lg-3 col-6 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="d-flex align-items-center mb-1">
+                    <div class="d-flex align-items-center mb-3">
                         <div class="btn-xlg-square bg-primary rounded-circle me-3">
                             <i class="fa-solid fa-calendar-days text-white fa-xl"></i>
                         </div>
